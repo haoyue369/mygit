@@ -6,5 +6,6 @@ public class git01 {
         System.out.println("开始修改");
         System.out.println("再次猜测是");
         System.out.println("快捷键ctrl+shift+k");
+        System.out.println("重新测试");
     }
 }
