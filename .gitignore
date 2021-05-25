@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+
+.idea/$PROJECT_FILE$
+.idea/.gitignore
+.idea/artifacts/
+.idea/compiler.xml
+.idea/junitgenerator-prj-settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+gittest.iml
